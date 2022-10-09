@@ -1,6 +1,6 @@
 $(`<style>.nosel.d-flex.room.r17fcfdf3eb0x2a8feb34xdqcvgd .corner.fa.fa-user.label.uc.fa-microphone.label-danger {
     letter-spacing: 1px;
-    -webkit-text-fill-color: #fff;
+    -webkit-text-fill-color: #ffffff;
     background-color : Transparent;
     border-radius: 15px 0px 15px 0px !important;
     }
@@ -8,7 +8,7 @@ $(`<style>.nosel.d-flex.room.r17fcfdf3eb0x2a8feb34xdqcvgd .corner.fa.fa-user.lab
     .nosel.d-flex.room.r17fcfdf3eb0x2a8feb34xdqcvgd {
     border-radius: 15px 0px 15px 0px;
     display: inline-block;
-    background-image: linear-gradient(-225deg, rgba(149, 97, 90, 0.31) 0%, rgba(255, 0, 143, 0) 29%, rgba(148, 97, 89, 0.05) 67%, rgba(150, 97, 90, 0.33) 100%) ;
+    background-image: url(https://d.top4top.io/p_24734th361.png);;
     }
     .nosel.d-flex.room.r17fcfdf3eb0x2a8feb34xdqcvgd .dots.mini.u-msg {
     text-align: center;
