@@ -1,3 +1,4 @@
+
 $(`<style>.nosel.d-flex.room.r17fcfdf3eb0x2a8feb34xdqcvgd .corner.fa.fa-user.label.uc.fa-microphone.label-danger {
     letter-spacing: 1px;
     -webkit-text-fill-color: #ffffff;
