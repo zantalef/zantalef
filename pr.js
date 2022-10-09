@@ -8,7 +8,7 @@ $(`<style>.nosel.d-flex.room.r17fcfdf3eb0x2a8feb34xdqcvgd .corner.fa.fa-user.lab
     .nosel.d-flex.room.r17fcfdf3eb0x2a8feb34xdqcvgd {
     border-radius: 15px 0px 15px 0px;
     display: inline-block;
-    background-image: url(https://d.top4top.io/p_24734th361.png);;
+    background-image: url(https://d.top4top.io/p_24734th361.png);
     }
     .nosel.d-flex.room.r17fcfdf3eb0x2a8feb34xdqcvgd .dots.mini.u-msg {
     text-align: center;
